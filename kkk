@@ -1,0 +1,6 @@
+let myAge = 31
+
+let teenagerName = 
+    myAge >= 13 && myAge <= 19 ? "yes" : "no"
+
+print(teenagerName)
